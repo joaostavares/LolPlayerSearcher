@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   const [searchText, setSearchText] = useState("");
   const [playerData, setPlayerData] = useState({});
-  const API_KEY = "YOUR API RIGHT HERE";
+  const API_KEY = "YOUR API_KEY RIGHT HERE";
 
   function searchPlayer(event) {
       var apiCall = "https://br1.api.riotgames.com/lol/summoner/v4/summoners/by-name/" + searchText + "?api_key=" + API_KEY;
