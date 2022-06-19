@@ -1,7 +1,7 @@
 # Lol Player Search
 
 A simple React.js project that makes requests to Riot's API and returns some data about the searched summoner. <br> <br>
-Made just for learning and training the use of external APIs.
+Made just for learning React.js and training the use of external APIs.
 
 ## Disclamer
 
