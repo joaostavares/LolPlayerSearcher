@@ -3,7 +3,7 @@
 A simple React.js project that makes requests to Riot's API and returns some data about the searched summoner. <br> <br>
 Made just for learning React.js and training the use of external APIs.
 
-## Disclamer
+## Disclaimer:
 
 This product is not endorsed, certified or otherwise approved in any way by Riot Games, Inc. or any of its affiliates.
 
