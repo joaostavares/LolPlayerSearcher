@@ -13,7 +13,7 @@ After cloning project, open terminal in project directory and run: <br>
 
 `npm install`
 
-Get your api key from Riot Developer Portal and and replace `YOUR API_KEY RIGHT HERE` with your own api_key on line 18 of `App.js`
+Get your api key from Riot Developer Portal and replace `YOUR API_KEY RIGHT HERE` with your own api_key on line 8 of `App.js`
 
 After changing api key now you can run project:
 
