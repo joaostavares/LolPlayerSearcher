@@ -8,7 +8,7 @@ function App() {
     const API_KEY = "YOUR API_KEY RIGHT HERE";
 
     function searchPlayer() {
-        var apiCall = "https://br1.api.riotgames.com/lol/summoner/v4/summoners/by-name/" + playerSearch.current.value + "?api_key=" + API_KEY;
+        const apiCall = "https://br1.api.riotgames.com/lol/summoner/v4/summoners/by-name/" + playerSearch.current.value + "?api_key=" + API_KEY;
         const getPlayerData = async () => {
             try {
                 const resp = await axios.get(apiCall);
